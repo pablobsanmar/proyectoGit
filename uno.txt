@@ -1,4 +1,8 @@
 archivo uno
 Primera linea
 Segunda linea
+<<<<<<< HEAD
 dos
+=======
+uno
+>>>>>>> ea96dff1ded44740c6f38ea9007742e070edc1a8
